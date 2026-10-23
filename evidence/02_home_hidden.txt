@@ -1,0 +1,10 @@
+total 36
+drwxr-x--- 5 student student 4096 Oct 23 02:27 .
+drwxr-xr-x 3 root    root    4096 Oct 16 05:48 ..
+-rw-r--r-- 1 student student  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 student student 3771 Feb 13  2026 .bashrc
+drwx------ 2 student student 4096 Oct 16 05:56 .cache
+-rw-rw-r-- 1 student student   64 Oct 23 02:26 .gitconfig
+-rw-r--r-- 1 student student  807 Feb 13  2026 .profile
+drwx------ 2 student student 4096 Oct 23 02:23 .ssh
+drwxrwxr-x 5 student student 4096 Oct 23 02:28 lab05-linux
